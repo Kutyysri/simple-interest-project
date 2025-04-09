@@ -1,1 +1,1 @@
-This is a simple interest calculator shell script
+simple interest calculator problems
